@@ -7,6 +7,9 @@ export default function Home() {
           <Link href="change-a-variant/pigment-css">Pigment CSS</Link>
         </li>
         <li>
+          <Link href="change-a-variant/css-modules">CSS Modules</Link>
+        </li>
+        <li>
           <Link href="change-a-variant/styled-components">
             Styled Components
           </Link>
